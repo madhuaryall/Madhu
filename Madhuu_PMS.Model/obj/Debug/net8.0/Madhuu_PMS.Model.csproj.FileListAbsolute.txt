@@ -1,0 +1,43 @@
+F:\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.deps.json
+F:\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.runtimeconfig.json
+F:\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.dll
+F:\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.pdb
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.csproj.AssemblyReference.cache
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.AssemblyInfoInputs.cache
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.AssemblyInfo.cs
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.csproj.CoreCompileInputs.cache
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.dll
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\refint\Madhuu_PMS.Model.dll
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.pdb
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.genruntimeconfig.cache
+F:\Madhuu_PMS.Model\obj\Debug\net8.0\ref\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.deps.json
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.runtimeconfig.json
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.pdb
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.csproj.AssemblyReference.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.AssemblyInfoInputs.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.AssemblyInfo.cs
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\refint\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.pdb
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.genruntimeconfig.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\ref\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.deps.json
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.runtimeconfig.json
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\bin\Debug\net8.0\Madhuu_PMS.Model.pdb
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.csproj.AssemblyReference.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.AssemblyInfoInputs.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.AssemblyInfo.cs
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.sourcelink.json
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\refint\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.pdb
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\Madhuu_PMS.Model.genruntimeconfig.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Model\obj\Debug\net8.0\ref\Madhuu_PMS.Model.dll

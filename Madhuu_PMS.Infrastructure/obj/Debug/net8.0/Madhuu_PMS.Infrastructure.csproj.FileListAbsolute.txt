@@ -1,0 +1,52 @@
+F:\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.deps.json
+F:\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.runtimeconfig.json
+F:\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.dll
+F:\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.pdb
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.csproj.AssemblyReference.cache
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.AssemblyInfoInputs.cache
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.AssemblyInfo.cs
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.dll
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\refint\Madhuu_PMS.Infrastructure.dll
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.pdb
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.genruntimeconfig.cache
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\ref\Madhuu_PMS.Infrastructure.dll
+F:\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Model.dll
+F:\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Model.pdb
+F:\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_P.4D6EB8D5.Up2Date
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.deps.json
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.runtimeconfig.json
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.pdb
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Model.pdb
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_P.4D6EB8D5.Up2Date
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\refint\Madhuu_PMS.Infrastructure.dll
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.pdb
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.genruntimeconfig.cache
+C:\Users\Madhu Aryal\Desktop\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\ref\Madhuu_PMS.Infrastructure.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.deps.json
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.runtimeconfig.json
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Infrastructure.pdb
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Model.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\bin\Debug\net8.0\Madhuu_PMS.Model.pdb
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.sourcelink.json
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_P.4D6EB8D5.Up2Date
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\refint\Madhuu_PMS.Infrastructure.dll
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.pdb
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\Madhuu_PMS.Infrastructure.genruntimeconfig.cache
+C:\Users\Madhu Aryal\Desktop\HI\PMS\Madhuu_PMS.Infrastructure\obj\Debug\net8.0\ref\Madhuu_PMS.Infrastructure.dll

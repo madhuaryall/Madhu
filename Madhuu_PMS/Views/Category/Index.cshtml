@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Madhuu_PMS.Model.Entity.Category>
+
+<div class="row mb-3">
+    <div class="col-12">
+        <a class="btn btn-primary float-end" asp-action="AddEdit">Add New</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <table id="myTable" class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Category Name</th>
+                    <th>Category Description</th>
+                    <th>Is Active</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.CategoryName</td>
+                        <td>@item.CategoryDescription</td>
+                        <td>@item.IsActive</td>
+                        <td>
+                            <a class="btn btn-primary" asp-action="AddEdit" asp-route-id="@item.Id">Edit</a>
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to delete this Category?');">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-12">
+        <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+    </div>
+</div>

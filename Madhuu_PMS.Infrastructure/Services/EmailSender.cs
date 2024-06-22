@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using System.Threading.Tasks;
+
+namespace Madhuu_PMS.Infrastructure.Services
+{
+    public class EmailSender : IEmailSender
+    {
+
+
+        public Task SendEmailAsync(string email, string subject, string htmlMessage)
+        {
+            
+            return Task.CompletedTask;
+        }
+    }
+}
